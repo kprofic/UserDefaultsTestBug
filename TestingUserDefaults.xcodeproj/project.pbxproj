@@ -13,6 +13,7 @@
 		AF293F0820408AAA00FAC5F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF293F0720408AAA00FAC5F2 /* Assets.xcassets */; };
 		AF293F0B20408AAA00FAC5F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF293F0920408AAA00FAC5F2 /* LaunchScreen.storyboard */; };
 		AF293F1620408AAA00FAC5F2 /* TestingUserDefaultsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF293F1520408AAA00FAC5F2 /* TestingUserDefaultsTests.swift */; };
+		AF5D46CD20441174006E7787 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AF5D46CC20441174006E7787 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		AF293F1120408AAA00FAC5F2 /* TestingUserDefaultsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestingUserDefaultsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF293F1520408AAA00FAC5F2 /* TestingUserDefaultsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingUserDefaultsTests.swift; sourceTree = "<group>"; };
 		AF293F1720408AAA00FAC5F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF5D46CC20441174006E7787 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		AF293EF420408AAA00FAC5F2 = {
 			isa = PBXGroup;
 			children = (
+				AF5D46CC20441174006E7787 /* README.md */,
 				AF293EFF20408AAA00FAC5F2 /* TestingUserDefaults */,
 				AF293F1420408AAA00FAC5F2 /* TestingUserDefaultsTests */,
 				AF293EFE20408AAA00FAC5F2 /* Products */,
@@ -181,6 +184,7 @@
 			files = (
 				AF293F0B20408AAA00FAC5F2 /* LaunchScreen.storyboard in Resources */,
 				AF293F0820408AAA00FAC5F2 /* Assets.xcassets in Resources */,
+				AF5D46CD20441174006E7787 /* README.md in Resources */,
 				AF293F0620408AAA00FAC5F2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
